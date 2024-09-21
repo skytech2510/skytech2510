@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack Moes
+- 👋 Hi, I’m John Veetle
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning blockchain
 
